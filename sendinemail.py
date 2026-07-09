@@ -20,3 +20,4 @@ try:
         print("Email sent successfully!")
 except Exception as e:
     print(f"Error sending email: {str(e)}")
+#this is to test git
